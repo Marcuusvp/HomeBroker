@@ -1,6 +1,6 @@
 module github.com/Marcuusvp/devprojeto/go
 
-go 1.21.4
+go 1.23
 
 require (
 	github.com/confluentinc/confluent-kafka-go v1.9.2
